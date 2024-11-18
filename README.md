@@ -38,3 +38,13 @@ Finally, start LAQIH by running the next command:
 ```shell
 bash ./LAQIH/laqih.sh
 ```
+
+## LinuxCNC Widgets Installation Steps
+
+1. **Open a terminal**: Open a new terminal window.
+
+2. **Run the command**: Enter the following command in the terminal to start the installation:
+
+```bash
+echo "3" | bash /usr/lib/python3/dist-packages/qtvcp/designer/install_script
+```
